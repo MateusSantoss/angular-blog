@@ -15,4 +15,10 @@ ul li {
 a
  {
   text-decoration: none;
+  text-transform: uppercase;
  }
+
+ a:hover {
+  color: rgb(40, 87, 128);
+
+}

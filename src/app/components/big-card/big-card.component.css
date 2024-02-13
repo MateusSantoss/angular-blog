@@ -10,10 +10,16 @@ a {
   justify-content:flex-start ;
   align-items: flex-start;
 
+
+
+
   margin-left: 20px;
   margin-right: 20px;
 
+
 }
+
+
 
 .big-card__title h1 {
   font-size: 20px;
@@ -24,9 +30,15 @@ a {
   margin-top: 10px;
 }
 
+.big-card__title h1 a:hover {
+  color: rgb(40, 87, 128);
+}
+
 .big-card__description p a {
   margin-top: 10px;
   color: grey;
+  padding: 2px;
+  margin-left: 3px;
 }
 
 .big-card__photo img {
